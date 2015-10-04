@@ -1,5 +1,5 @@
 # Yellow Blog Extensions
-Sublime Text 3 Extensions for blogs based on Yellow.
+Sublime Text 3 Extensions for blogs based on Yellow[http://datenstrom.se/yellow/]
 
 Use Palette command : Yellow New Blog in a new file to generate Yellow Template
 
